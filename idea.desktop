@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=IntelliJ IDEA
+GenericName=IntelliJ IDEA
+Comment=The Java IDE for Professional Developers by JetBrains
+Exec=/home/clouder/apps/idea-IU-232.8660.185/bin/idea.sh
+Icon=/home/clouder/apps/idea-IU-232.8660.185/bin/idea.png
+Terminal=true
+Type=Application
+Categories=Application;Development;Utility;
